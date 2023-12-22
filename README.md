@@ -1,0 +1,3 @@
+# SEKOLAHKU
+
+udah itu saja!

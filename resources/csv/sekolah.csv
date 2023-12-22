@@ -1,0 +1,686 @@
+bentuk_pendidikan,nama,npsn,status,alamat,desa,kecamatan,lintang,bujur
+SD,SD No. 1 Abiansemal,50101759,Negeri,Banjar Dirgahayu,Abiansemal,Abiansemal,-8.5518,115.2111
+SD,SD No. 1 Abiansemal Dauh Yeh Cani,50101801,Negeri,"Jln. Janger, Br. Kedampal",Dauh Yeh Cani,Abiansemal,-8.524833,115.207967
+SD,SD No. 1 Angantaka,50101760,Negeri,Br. Desa,Angantaka,Abiansemal,-8.582,115.2394
+SD,SD No. 1 Ayunan,50103546,Negeri,Br Ambengan,Ayunan,Abiansemal,-8.4952,115.1996
+SD,SD No. 1 Blahkiuh,50101764,Negeri,"Jl Kendedes Br. Benehkawan, Blahkiuh",Blahkiuh,Abiansemal,-8.5128,115.2066
+SD,SD No. 1 Bongkasa,50101765,Negeri,"Br.pengembungan,bongkasa",Bongkasa,Abiansemal,-8.4788,115.2405
+SD,SD No. 1 Bongkasa Pertiwi,50101766,Negeri,Br. Tegalkuning,Bongkasa Pertiwi,Abiansemal,-8.4883,115.2388
+SD,SD No. 1 Darmasaba,50101800,Negeri,Br Darmasaba,Darmasaba,Abiansemal,-8.5871,115.2041
+SD,SD No. 1 Jagapati,50101802,Negeri,Banjar Pasek,Jagapati,Abiansemal,-8.594,115.2413
+SD,SD No. 1 Mambal,50101796,Negeri,JALAN RAYA MAMBAL,Mambal,Abiansemal,-8.5509,115.2311
+SD,SD No. 1 Mekar Bhuana,50101773,Negeri,Br. Samu,MEKAR BHUANA,Abiansemal,-8.5506,115.2251
+SD,SD No. 1 Punggul,50103551,Negeri,Br. Tengah,Punggul,Abiansemal,-8.4996,115.2201
+SD,SD No. 1 Sangeh,50101794,Negeri,Br Brahmana,Sangeh,Abiansemal,-8.4871,115.2092
+SD,SD No. 1 Sedang,50101795,Negeri,"Jl. Kamboja, Br. Sigaran",Sedang,Abiansemal,-8.5714,115.2392
+SD,SD No. 1 Selat,50103553,Negeri,Br. Tegal Selat,Abiansemal,Abiansemal,-8.4927,115.21
+SD,SD No. 1 Sibanggede,50101723,Negeri,Br Busana,Sibang Gede,Abiansemal,-8.5773,115.2193
+SD,SD No. 1 Sibangkaja,50101724,Negeri,Br Piakan,Sibang Kaja,Abiansemal,-8.5694,115.2189
+SD,SD No. 1 Taman,50101726,Negeri,Br. Gunung,Taman,Abiansemal,-8.4857,115.2261
+SD,SD No. 2 Abiansemal,50101739,Negeri,Br Juwet,Abiansemal,Abiansemal,-8.5225,115.2169
+SD,SD No. 2 Abiansemal Dauh Yeh Cani,50101878,Negeri,Br. Kedampal,Dauh Yeh Cani,Abiansemal,-8.5237,115.2029
+SD,SD No. 2 Angantaka,50101740,Negeri,Br. Puseh,Angantaka,Abiansemal,-8.5641,115.2358
+SD,SD No. 2 Ayunan,50103559,Negeri,Banjar Badung Tengah,Ayunan,Abiansemal,-8.5065,115.1992
+SD,SD No. 2 Blahkiuh,50103560,Negeri,"Br. Ulapan I, Blahkiuh",Blahkiuh,Abiansemal,-8.5172,115.2001
+SD,SD No. 2 Bongkasa,50101860,Negeri,Bongkasa,Bongkasa,Abiansemal,-8.5031,115.2326
+SD,SD No. 2 Bongkasa Pertiwi,50103561,Negeri,Br. Karang Dalem II,Bongkasa Pertiwi,Abiansemal,-8.4787,115.2408
+SD,SD No. 2 Darmasaba,50101877,Negeri,Br Bucu,Darmasaba,Abiansemal,-8.587,115.2039
+SD,SD No. 2 Jagapati,50101880,Negeri,"Br. Jabejero, Jagapati",Jagapati,Abiansemal,-8.5862,115.2416
+SD,SD No. 2 Mambal,50101863,Negeri,Br. Semana,Mambal,Abiansemal,-8.5311,115.2284
+SD,SD No. 2 Mekar Bhuana,50101774,Negeri,Br. Sigaran,MEKAR BHUANA,Abiansemal,-8.5309,115.2197
+SD,SD No. 2 Punggul,50103569,Negeri,Br. Kelodan,Punggul,Abiansemal,-8.5035,115.2209
+SD,SD No. 2 Sangeh,50101901,Negeri,Br. Tegal Gerana,Sangeh,Abiansemal,-8.4641,115.2117
+SD,SD No. 2 Sedang,50101902,Negeri,Br.Sedang Jl Raya Kerasan,Sedang,Abiansemal,-8.5644,115.2346
+SD,SD No. 2 Sibanggede,50101905,Negeri,Br. Tagtag,Sibang Gede,Abiansemal,-8.5833,115.2185
+SD,SD No. 2 Sibangkaja,50103571,Negeri,Br. Sangging,Sibang Kaja,Abiansemal,-8.5616,115.2189
+SD,SD No. 2 Taman,50101906,Negeri,Br Dlodpasar,Taman,Abiansemal,-8.4907,115.226
+SD,SD No. 3 Abiansemal,50101911,Negeri,Br Aseman,Abiansemal,Abiansemal,-8.5337,115.2137
+SD,SD No. 3 Abiansemal Dauh Yeh Cani,50101897,Negeri,Br. Batanbuah,Dauh Yeh Cani,Abiansemal,-8.5384,115.1963
+SD,SD No. 3 Angantaka,50101900,Negeri,Br Kekeran,Angantaka,Abiansemal,-8.56,115.2399
+SD,SD No. 3 Blahkiuh,50101889,Negeri,"Jln. Panyembrama,Br. Benehkawan, Blahkiuh",Blahkiuh,Abiansemal,-8.5137,115.207
+SD,SD No. 3 Bongkasa,50101891,Negeri,Br. Kambang,Bongkasa,Abiansemal,-8.5106,115.2292
+SD,SD No. 3 Darmasaba,50101896,Negeri,"Jl. Kresna No. 10,  Br. Penenjoan Darmasaba",Darmasaba,Abiansemal,-8.5871,115.204
+SD,SD No. 3 Mambal,50101832,Negeri,Br Mambal Kajanan,Mambal,Abiansemal,-8.5492,115.2231
+SD,SD No. 3 Mekar Bhuana,50103582,Negeri,Br Bindu,MEKAR BHUANA,Abiansemal,-8.5339,115.2187
+SD,SD No. 3 Sangeh,50103584,Negeri,Br. Pemijian,Sangeh,Abiansemal,-8.4899,115.2064
+SD,SD No. 3 Sedang,50101814,Negeri,"Jln. Batur, Br. Kauripan",Sedang,Abiansemal,-8.5639,115.2396
+SD,SD No. 3 Sibanggede,50103585,Negeri,"Br.pane,sibanggede",Sibang Gede,Abiansemal,-8.5817,115.2157
+SD,SD No. 3 Sibangkaja,50101817,Negeri,Br Sintrig,Sibang Kaja,Abiansemal,-8.5689,115.2226
+SD,SD No. 3 Taman,50101820,Negeri,Br. Jempeng,Taman,Abiansemal,-8.4731,115.2268
+SD,SD No. 4 Abiansemal,50101850,Negeri,"Br Pande,Abiansemal",Abiansemal,Abiansemal,-8.5261,115.2112
+SD,SD No. 4 Abiansemal Dauh Yeh Cani,50101836,Negeri,Br Banjaran,Dauh Yeh Cani,Abiansemal,-8.5309,115.2072
+SD,SD No. 4 Blahkiuh,50101854,Negeri,"Br.kembangsari,  Blahkiuh",Blahkiuh,Abiansemal,-8.5088,115.2083
+SD,SD No. 4 Bongkasa,50101855,Negeri,Br. Tanggayuda,Bongkasa,Abiansemal,-8.4731,115.2267
+SD,SD No. 4 Darmasaba,50101846,Negeri,"Br. Telanga, Darmasaba, Kec. Abiansemal, Kab. Badung",Darmasaba,Abiansemal,-8.5921,115.2093
+SD,SD No. 4 Mambal,50101842,Negeri,Br. Umahanyar,Mambal,Abiansemal,-8.5415,115.2214
+SD,SD No. 4 Mekar Bhuana,50103591,Negeri,Br. Lambing,MEKAR BHUANA,Abiansemal,-8.5344,115.2184
+SD,SD No. 4 Sibanggede,50101574,Negeri,Br Dualang,Sibang Gede,Abiansemal,-8.5728,115.2174
+SD,SD No. 4 Sibangkaja,50101575,Negeri,Br. Lambing,Sibang Kaja,Abiansemal,-8.5658,115.2222
+SD,SD No. 4 Taman,50101576,Negeri,Br. Ketogan,Taman,Abiansemal,-8.4929,115.233
+SD,SD No. 5 Abiansemal,50101579,Negeri,"Br Dirgahayu, Gerih",Abiansemal,Abiansemal,-8.5516,115.2112
+SD,SD No. 5 Darmasaba,50101562,Negeri,Br. Umahanyar,Darmasaba,Abiansemal,-8.5967,115.2067
+SD,SD No. 5 Taman,50101592,Negeri,Br. Pegongan.,Taman,Abiansemal,-8.4821,115.2275
+SD,SD No. 6 Abiansemal,50101584,Negeri,"Jl. Kebyar Duduk, Br. Gunung",Abiansemal,Abiansemal,-8.535,115.1953
+SD,SD No. 6 Darmasaba,50101605,Negeri,Br. Gulingan,Darmasaba,Abiansemal,-8.5894,115.2024
+SD,SD No. 7 Darmasaba,50103595,Negeri,Br. Cabe,Darmasaba,Abiansemal,-8.5921,115.2188
+SD,SD No. 1 Kedonganan,50101805,Negeri,Jl Catus Pata No 10 Kedonganan,Kedonganan,Kuta,-8.7658,115.1757
+SD,SD No. 1 Kuta,50101808,Negeri,Jl Raya Kuta,Kuta,Kuta,-8.7247,115.1767
+SD,SD No. 1 Legian,50101797,Negeri,Jl Werkudara no.513 Legian Kaja Kuta-Badung Bali,Legian,Kuta,-8.72,115.1748
+SD,SD No. 1 Seminyak,50101708,Negeri,Jl Raya   Seminyak,Seminyak,Kuta,-8.688,115.1662
+SD,SD No. 1 Tuban,50101728,Negeri,Jl Pelita,Tuban,Kuta,-8.7432,115.18
+SD,SD No. 2 Kuta,50101871,Negeri,Jl. Kubu Anyar,Kuta,Kuta,-8.7265,115.1709
+SD,SD No. 2 Legian,50103566,Negeri,Jl Patimura.,Legian,Kuta,-8.7115,115.1748
+SD,SD No. 2 Seminyak,50103570,Negeri,Jl Raya Basangkasa Seminyak,Seminyak,Kuta,-8.6879,115.167
+SD,SD No. 2 Tuban,50101908,Negeri,Jl.Taman Geriya IV No. 6 Tuban,Tuban,Kuta,-8.7401,115.1755
+SD,SD No. 3 Kedonganan,50101826,Negeri,Jl. Pemelisan No 12,Kedonganan,Kuta,-8.7342,115.1732
+SD,SD No. 3 Kuta,50101829,Negeri,Jl Kayangan suci,Kuta,Kuta,-8.7232,115.1726
+SD,SD No. 3 Legian,50101831,Negeri,Jl Sriwijaya No.1,Legian,Kuta,-8.7199,115.175
+SD,SD No. 3 Tuban,50101834,Negeri,Br Kelan Desa,Tuban,Kuta,-8.7512,115.1783
+SD,SD No. 4 Kuta,50101841,Negeri,Jl. Dewi Sartika,Kuta,Kuta,-8.726,115.1764
+SD,SD No. 4 Tuban,50101577,Negeri,JL. Masjapur No. 4 Tuban,Tuban,Kuta,-8.7438,115.1776
+SD,SD No. 5 Kuta,50101581,Negeri,Jl. Kubu Anyar,Kuta,Kuta,-8.7337,115.1707
+SD,SD No. 5 Tuban,50101582,Negeri,Jl. Uluwatu,Tuban,Kuta,-8.7541,115.1788
+SD,SD No. 6 Kuta,50101520,Negeri,Jl. Mataram Br. Pelasa,Kuta,Kuta,-8.7275,115.1739
+SD,SD No. 6 Tuban,50101507,Negeri,Jl. Raya Tuban,Tuban,Kuta,-8.7407,115.1784
+SD,SD CAHAYA BANGSA,50103392,Swasta,Jl Merdeka Raya VI No. 15 Kuta,Kuta,Kuta,-8.7122,115.1857
+SD,SD JEMBATAN BUDAYA,50101778,Swasta,Jl. Raya Kuta No 1,Kuta,Kuta,-8.7321129,115.1800369
+SD,SD K SOVERDI TUBAN,50101770,Swasta,Jl. Komplek Burung No 46,Tuban,Kuta,-8.7416,115.1727
+SD,SD PRSHANTI NILAYAM,50101781,Swasta,Jl. Kubu Anyar No 21,Kuta,Kuta,-8.7307,115.1736
+SD,SD No. 1 Benoa,50101763,Negeri,Jln. I Gusti Ngurah Rai - Nusa Dua,Benoa,Kuta Selatan,-8.7956,115.2175
+SD,SD No. 1 Jimbaran,50101803,Negeri,Jl Tegal Sari,Jimbaran,Kuta Selatan,-8.7707,115.1763
+SD,SD No. 1 Kutuh,50101798,Negeri,"Jln Darmawangsa,Br.petangan,Kutuh",Kutuh,Kuta Selatan,-8.8284,115.1787
+SD,SD No. 1 Pecatu,50101788,Negeri,"Jl. Raya Uluwatu, Br. Dinas Kangin",Pecatu,Kuta Selatan,-8.8345,115.1271
+SD,SD No. 1 Tanjung Benoa,50101727,Negeri,Jl. Pantai Taman Sari Tanjung Benoa,Tanjung Benoa,Kuta Selatan,-8.7541,115.2206
+SD,SD No. 1 Ungasan,50101748,Negeri,Br. Kauh Ungasan,Ungasan,Kuta Selatan,-8.8279,115.1655
+SD,SD No. 10 Jimbaran,50101730,Negeri,"Jln Bukit Hijau Simpangan,jimbaran",Jimbaran,Kuta Selatan,-8.7976,115.158
+SD,SD No. 11 Jimbaran,50101714,Negeri,"Jln Danau Tamblingan II, Perum Taman Geriya",Jimbaran,Kuta Selatan,-8.7888,115.186
+SD,SD No. 12 Jimbaran,50103899,Negeri,Jalan Danau Batur Raya Lingkungan Taman Griya,Jimbaran,Kuta Selatan,-8.7904,115.1872
+SD,SD No. 2 Benoa,50101757,Negeri,Jalan Celagi Nunggul Br.Sawangan,Benoa,Kuta Selatan,-8.8261,115.2105
+SD,SD No. 2 Jimbaran,50101881,Negeri,Jln. Balangan Pratama Lingkungan Cengiling,Jimbaran,Kuta Selatan,-8.8274,115.1881
+SD,SD No. 2 Kutuh,50101861,Negeri,Jl. Darmawangsa Kutuh,Kutuh,Kuta Selatan,-8.8249,115.1847
+SD,SD No. 2 Pecatu,50101867,Negeri,Br. Dinas Labuan Sait,Pecatu,Kuta Selatan,-8.816684,115.113215
+SD,SD No. 2 Tanjung Benoa,50101907,Negeri,Jl. Taman Sari No. 1,Tanjung Benoa,Kuta Selatan,-8.7635,115.2218
+SD,SD No. 2 Ungasan,50101910,Negeri,Br Sari Karya Ungasan,Ungasan,Kuta Selatan,-8.8298,115.1501
+SD,SD No. 3 Benoa,50101887,Negeri,"Jln. Pura Dukuh Sari , Kampial ,Benoa",Benoa,Kuta Selatan,-8.8058,115.1966
+SD,SD No. 3 Jimbaran,50101824,Negeri,Jl Bantas Kangin Jimbaran,Jimbaran,Kuta Selatan,-8.7682,115.1751
+SD,SD No. 3 Kutuh,50101830,Negeri,"Jalan Gunung Payung ,Desa Kutuh, Kec. Kuta Selatan Kab Badung",Kutuh,Kuta Selatan,-8.8277,115.1818
+SD,SD No. 3 Pecatu,50101822,Negeri,Jln.Uluwatu Pecatu,Pecatu,Kuta Selatan,-8.8329,115.0948
+SD,SD No. 3 Ungasan,50101835,Negeri,Jl Bali Cliff Resort-Br.Kelod Ungasan,Ungasan,Kuta Selatan,-8.8298,115.1658
+SD,SD No. 4 Benoa,50101853,Negeri,Jln. Taman Siswa No 4 Br. Mumbul Nusa Dua,Benoa,Kuta Selatan,-8.7857,115.1972
+SD,SD No. 4 Jimbaran,50101837,Negeri,"Jln Uluwatu,simpangan Jimbaran,kuta Sel.",Jimbaran,Kuta Selatan,-8.7992,115.1611
+SD,SD No. 4 Pecatu,50101845,Negeri,Jln. Bambang Kembar No. 4 Pecatu,Pecatu,Kuta Selatan,-8.8323,115.1284
+SD,SD No. 4 Ungasan,50101578,Negeri,Jl Uluwatu No. 108x. Br. Werdikosala Ungasan,Ungasan,Kuta Selatan,-8.8182,115.1542
+SD,SD No. 5 Benoa,50101736,Negeri,"Jl Calonarang, Lingkungan Banjar Penyarikan",Benoa,Kuta Selatan,-8.8005,115.223
+SD,SD No. 5 Jimbaran,50101564,Negeri,Jl. Pemelisan Agung,Jimbaran,Kuta Selatan,-8.7703,115.1724
+SD,SD No. 5 Pecatu,50101598,Negeri,Jln Temudewi No. 9,Pecatu,Kuta Selatan,-8.8285,115.1306
+SD,SD No. 5 Ungasan,50101583,Negeri,Jln. Uluwatu / Br. Bakung Sari,Ungasan,Kuta Selatan,-8.8245,115.1441
+SD,SD No. 6 Benoa,50101586,Negeri,Jl. Pratama Gg. Pendidikan Link. Terora,Benoa,Kuta Selatan,-8.7794,115.2213
+SD,SD No. 6 Jimbaran,50101528,Negeri,Jln By Pass Ngurah Rai Jimbaran,Jimbaran,Kuta Selatan,-8.7822,115.1795
+SD,SD No. 6 Pecatu,50101524,Negeri,Br. Dinas Giri Sari,Pecatu,Kuta Selatan,-8.835,115.1126
+SD,SD No. 6 Ungasan,50101506,Negeri,Br. Santhi Karya Ungasan,Ungasan,Kuta Selatan,-8.8178,115.173
+SD,SD No. 7 Benoa,50101504,Negeri,Jl. Praja Sentral Nusa Dua,Benoa,Kuta Selatan,-8.7965,115.2174
+SD,SD No. 7 Jimbaran,50101514,Negeri,Jln. Wanagiri,Jimbaran,Kuta Selatan,-8.7863,115.1626
+SD,SD No. 7 Ungasan,50101541,Negeri,Br. Wijaya Kusuma,Ungasan,Kuta Selatan,-8.8362,115.1505
+SD,SD No. 8 Benoa,50101530,Negeri,Jln. Ayodya No 10,Benoa,Kuta Selatan,-8.8012,115.2209
+SD,SD No. 8 Jimbaran,50101536,Negeri,Jln. Petasikan II,Jimbaran,Kuta Selatan,-8.7994,115.1746
+SD,SD No. 8 Ungasan,50101677,Negeri,"Jln.GWK, Br. Giri Dharma Ungasan",Ungasan,Kuta Selatan,-8.8058,115.1615
+SD,SD No. 9 Benoa,50101680,Negeri,Br. Mumbul,Benoa,Kuta Selatan,-8.783,115.1971
+SD,SD No. 9 Jimbaran,50101670,Negeri,Jln. Taman Jimbaran,Jimbaran,Kuta Selatan,-8.7841,115.1939
+SD,SD BINTANG MANDIRI,69725683,Swasta,"JL. KAMPUS UNUD TAMAN AMBENGAN 9 TM, JIMBARAN",Jimbaran,Kuta Selatan,-8.792,115.1552
+SD,SD BINTANG PRATAMA,70041745,Swasta,JL. PRATAMA NO. 37A,Benoa,Kuta Selatan,-8.789,115.224
+SD,SD Bintang Timur,69976578,Swasta,"Jl. Bisma No. 8, Kurusetra",Benoa,Kuta Selatan,-8.7972194,115.2003238
+SD,SD Bukit Sunrise,69946273,Swasta,"Perum. Bali Kencana Resort I, No. 88, Ungasan, Badung",Ungasan,Kuta Selatan,-8.786048,115.190467
+SD,SD HARAPAN BUNDA,50103892,Swasta,Jln. Raya Uluwatu Gang Cempaka No.3 Jimbaran,Jimbaran,Kuta Selatan,-8.7964,115.1634
+SD,SD K SOVERDI,70011574,Swasta,"Jl. Soverdi No. 1, Batungongkong, Lingk. Angga Swara, Jimbaran, Kuta Selatan",Jimbaran,Kuta Selatan,-8.8030455,115.1825448
+SD,SD Lentera Hati,69947862,Swasta,"Jl. Taman Baruna, No. 14, Kel. Jimbaran",Jimbaran,Kuta Selatan,-8.788869,115.208481
+SD,SD MUTIARA,70008146,Swasta,JL. LINGKAR TIMUR UDAYANA NO. 8,Jimbaran,Kuta Selatan,-8.7951,115.1783
+SD,SD NUSA DUA,50103399,Swasta,Jln Taman Mahardika No. 4 Mumbul Nusa Dua,Benoa,Kuta Selatan,-8.7852,115.2036
+SD,SD PELANGI JIMBARAN,50103865,Swasta,Nuansa Utama XI A / 2,Jimbaran,Kuta Selatan,-8.7991,115.1859
+SD,SD TAMAN RAMA JIMBARAN,50103863,Swasta,Perum Puri Gading Cenggiling Jimbaran,Jimbaran,Kuta Selatan,-8.8008,115.146
+SD,SD TAT TWAM ASI,50103400,Swasta,Jl. Nuansa Raya No 1 Jimbaran,Jimbaran,Kuta Selatan,-8.794,115.1869
+SD,SD TUNAS KASIH,50103401,Swasta,By Pass Ngurah Rai Nusa Dua,Benoa,Kuta Selatan,-8.7876,115.2055
+SD,SD WERDI SASTRA,70013612,Swasta,"Jl. Taman Giri, Perum Giri Hill. Permata 7 No. 7, Lingk. Menesa, Kampial",Benoa,Kuta Selatan,-8.7975071,115.1903336
+SD,SD WIDIATMIKA,50103402,Swasta,"Jl. Raya Kampus Udayana, Pondok Taman Nusantara No. 1 Jimbaran",Jimbaran,Kuta Selatan,-8.7876,115.1767
+SD,SD No. 1 Canggu,50101783,Negeri,Jl Pipitan Sari,Canggu,Kuta Utara,-8.6354,115.148
+SD,SD No. 1 Dalung,50101799,Negeri,JL. RAYA DALUNG BR. UNTAL - UNTAL,Dalung,Kuta Utara,-8.6116,115.1738
+SD,SD No. 1 Kerobokan,50103549,Negeri,Jl Gunung Sangiang,Kerobokan,Kuta Utara,-8.6466,115.1728
+SD,SD No. 1 Kerobokan Kaja,50101806,Negeri,Kerobokan Kaja,Kerobokan Kaja,Kuta Utara,-8.6326,115.1694
+SD,SD No. 1 Kerobokan Kelod,50101807,Negeri,Jl Petitenget No.3,Kerobokan Kelod,Kuta Utara,-8.6719,115.1639
+SD,SD No. 1 Tibubeneng,50103554,Negeri,Br Tibubeneng,Tibubeneng,Kuta Utara,-8.6322,115.1606
+SD,SD No. 2 Dalung,50101876,Negeri,"Jln. I Gusti Ngurah Gentuh, Br. Kung",Dalung,Kuta Utara,-8.6153,115.1693
+SD,SD No. 2 Kerobokan,50103564,Negeri,Br. Peliatan,Kerobokan,Kuta Utara,-8.656,115.1626
+SD,SD No. 2 Kerobokan Kaja,50103565,Negeri,Br. Muding Kelod,Kerobokan Kaja,Kuta Utara,-8.6553,115.1774
+SD,SD No. 2 Kerobokan Kelod,50101872,Negeri,Jln. Petitenget No. 3x,Kerobokan Kelod,Kuta Utara,-8.6719,115.1638
+SD,SD No. 2 Tibubeneng,50103573,Negeri,Jl Pantai Berawa,Tibubeneng,Kuta Utara,-8.6477,115.1499
+SD,SD No. 3 Canggu,50101892,Negeri,Jl. Raya Babakan No. 28,Canggu,Kuta Utara,-8.6295,115.1512
+SD,SD No. 3 Dalung,50101895,Negeri,"Jl. I Gusti Ngurah Gentuh, Br. Lebak",Dalung,Kuta Utara,-8.6276,115.1791
+SD,SD No. 3 Kerobokan,50103579,Negeri,Jalan Raya Kesambi Kerobokan,Kerobokan,Kuta Utara,-8.647,115.173
+SD,SD No. 3 Kerobokan Kaja,50101828,Negeri,Lingkungan Beluran,Kerobokan Kaja,Kuta Utara,-8.6683,115.1692
+SD,SD No. 3 Kerobokan Kelod,50103580,Negeri,Pengubengan Kangin,Kerobokan Kelod,Kuta Utara,-8.6728,115.1722
+SD,SD No. 3 Tibubeneng,50103586,Negeri,"Jalan Pantai Berawa, Banjar Tegal Gundul",Tibubeneng,Kuta Utara,-8.6581,115.1473
+SD,SD No. 4 Canggu,50101857,Negeri,Jl Batu Bolong,Canggu,Kuta Utara,-8.6476,115.1405
+SD,SD No. 4 Dalung,50101847,Negeri,Jl Raya Padang Luwih No.133,Dalung,Kuta Utara,-8.628,115.177
+SD,SD No. 4 Kerobokan,50103588,Negeri,Jalan Raya Anyar,Kerobokan,Kuta Utara,-8.6488,115.1625
+SD,SD No. 4 Kerobokan Kelod,50103589,Negeri,"Jl. Villa Umalas, Lingk. Umalas Kauh",Kerobokan Kelod,Kuta Utara,-8.6681,115.1576
+SD,SD No. 5 Dalung,50101561,Negeri,Jl. Raya Padang Luwih No.135 Br. Celuk Dalung,Dalung,Kuta Utara,-8.6311,115.1768
+SD,SD No. 5 Kerobokan Kelod,50103593,Negeri,Jl Pekandelan,Kerobokan Kelod,Kuta Utara,-8.6616,115.1654
+SD,SD No. 6 Dalung,50101591,Negeri,Btn Bumi Dalung Permai Br Campuan Asri Kauh,Dalung,Kuta Utara,-8.6243,115.1694
+SD,SD No. 7 Dalung,50105508,Negeri,"Br. Tuka, Desa Dalung",Dalung,Kuta Utara,-8.6526,115.1531
+SD,SD AL HIJRIYAH,69988773,Swasta,Jl. Muding Sari Gg. II / 9,Kerobokan Kaja,Kuta Utara,-8.6452,115.1762
+SD,SD Bali Kiddy,50105597,Swasta,Jln. Teuku Umar Barat 235 Badung,Kerobokan Kelod,Kuta Utara,-8.6737,115.1767
+SD,SD Cerdas Insan Sejahtera (CIS) Bali,69893235,Swasta,"Perum Dalung Permai, Jl. Bhineka Nusa Kangin 1-X Dalung, Kuta Utara, Badung",Dalung,Kuta Utara,-8.6972,115.1728
+SD,SD Duta Bina Bhuana,70001606,Swasta,"Jalan Pandu No. 61, Banjar Dukuh",Dalung,Kuta Utara,-8.6544876,115.1303904
+SD,SD FAJAR HARAPAN,50103596,Swasta,Jl Raya Padonan,Tibubeneng,Kuta Utara,-8.626,115.1664
+SD,SD Imanuel,50105406,Swasta,"Jl. Raya Dalung No. 2, Br. Untal-untal, Desa Dalung",Dalung,Kuta Utara,-8.6095,115.1799
+SD,SD K THOMAS AQUINO TUKA,50101769,Swasta,Jln Raya Tuka,Dalung,Kuta Utara,-8.6399,115.1622
+SD,SD KALAM KUDUS,50103597,Swasta,Kuta Utara,Kerobokan Kaja,Kuta Utara,-8.7055,115.1743
+SD,SD Kusuma Budaya,69888880,Swasta,"Jl. Raya Dalung, Banjar Untal-untal, Desa Dalung",Dalung,Kuta Utara,-8.642347,115.170233
+SD,SD Multi-Q,69899251,Swasta,"Jl. Raya Gadon, Gang Liplip, Br. Gadon, Kel. Kerobokan Kaja",Kerobokan Kaja,Kuta Utara,-8.648075,115.159558
+SD,SD TEGALJAYA,50101782,Swasta,Jl. Kubu Gunung Tegal Jaya,Dalung,Kuta Utara,-8.6379,115.1694
+SD,SD Tiara Nirwana,69957126,Swasta,Jl. Muding Batu Sangian IV/No.7,Kerobokan Kaja,Kuta Utara,-8.6427,115.1773
+SD,SD No. 1 Abianbase,50103545,Negeri,Br Gede Abianbase,Abianbase,Mengwi,-8.5915,115.1763
+SD,SD No. 1 Baha,50101761,Negeri,Br. Kedua,Baha,Mengwi,-8.5251,115.1823
+SD,SD No. 1 Buduk,50101767,Negeri,"Jln. Ida bagus Ngurah No. 42, Br. Tengah Buduk",Buduk,Mengwi,-8.617,115.1433
+SD,SD No. 1 Cemagi,50101784,Negeri,"Br. Mengening, Cemagi",Cemagi,Mengwi,-8.6289,115.1119
+SD,SD No. 1 Gulingan,50103547,Negeri,Br. Tengah Kaler,Gulingan,Mengwi,-8.5451,115.1826
+SD,SD No. 1 Kapal,50101804,Negeri,Br Celuk,Kapal,Mengwi,-8.5685,115.1804
+SD,SD No. 1 Kekeran,50103548,Negeri,Jalan Cendana Banjar Tauman,Kekeran,Mengwi,-8.5867,115.1592
+SD,SD No. 1 Kuwum,50103393,Negeri,Br. Kuwum,Kuwum,Mengwi,-8.4822,115.1894
+SD,SD No. 1 Lukluk,50103550,Negeri,Lingkungan Br. Badung,Lukluk,Mengwi,-8.5808,115.189
+SD,SD No. 1 Mengwi,50101785,Negeri,Jl I Gst Ngurah Rai 42,Mengwi,Mengwi,-8.5479,115.17
+SD,SD No. 1 Mengwitani,50101786,Negeri,"Jln. Raya Mengwitani, Br Gunung Sari",Mengwitani,Mengwi,-8.5637,115.1684
+SD,SD No. 1 Munggu,50101787,Negeri,"JALAN RAYA MUNGGU, BANJAR BADUNG",Munggu,Mengwi,-8.6196,115.1259
+SD,SD No. 1 Penarungan,50101791,Negeri,Br Dauh Peken,Penarungan,Mengwi,-8.5393,115.1964
+SD,SD No. 1 Pererenan,50101792,Negeri,"Jl. Pantai Pererenan No. 67, Br. Batu",Pererenan,Mengwi,-8.6389,115.1312
+SD,SD No. 1 Sading,50103552,Negeri,Br. Pengalasan,Sading,Mengwi,-8.5934,115.1983
+SD,SD No. 1 Sembung,50101809,Negeri,"Jln.Arjuna, Br Dajan Peken",Sembung,Mengwi,-8.4707,115.1834
+SD,SD No. 1 Sempidi,50101722,Negeri,Br Sebita Sempidi,Sempidi,Mengwi,-8.6097,115.1863
+SD,SD No. 1 Sobangan,50101725,Negeri,Br Tegalnarungan,Sobangan,Mengwi,-8.4982,115.1896
+SD,SD No. 1 Tumbakbayuh,50103556,Negeri,Br Dangin Sema,Tumbak Bayuh,Mengwi,-8.5557,115.1745
+SD,SD No. 1 Werdi Bhuwana,50103557,Negeri,BR SAYAN BALERAN,Werdi Bhuwana,Mengwi,-8.5027,115.1834
+SD,SD No. 2 Abianbase,50103558,Negeri,"Ling. Br. Jeroan, Tangeb, Abianbase, Mengwi, Badung",Abianbase,Mengwi,-8.5862,115.1673
+SD,SD No. 2 Baha,50101742,Negeri,Br Pengabatan,Baha,Mengwi,-8.5239,115.1745
+SD,SD No. 2 Buduk,50101874,Negeri,Br. Gunung,Buduk,Mengwi,-8.6153,115.1515
+SD,SD No. 2 Cemagi,50103562,Negeri,Br. Kaja Kangin,Cemagi,Mengwi,-8.6246,115.1193
+SD,SD No. 2 Gulingan,50101879,Negeri,Br Babakan Kawan,Gulingan,Mengwi,-8.5501,115.1871
+SD,SD No. 2 Kapal,50101882,Negeri,Lingkungan Tambak Sari,Kapal,Mengwi,-8.5789,115.176
+SD,SD No. 2 Kekeran,50103563,Negeri,Br. Gelagah Puwun,Kekeran,Mengwi,-8.5725,115.1652
+SD,SD No. 2 Kuwum,50103394,Negeri,Br. Nyelati,Kuwum,Mengwi,-8.4587,115.183
+SD,SD No. 2 Lukluk,50101862,Negeri,"Br. Gede, Anggungan",Lukluk,Mengwi,-8.5725,115.1941
+SD,SD No. 2 Mengwi,50101864,Negeri,"Jln. Darmaja, No. 7 Br. Gambang, Mengwi, Badung",Mengwi,Mengwi,-8.5379,115.1717
+SD,SD No. 2 Mengwitani,50101865,Negeri,Br. Selat Beringkit,Mengwitani,Mengwi,-8.5714,115.1653
+SD,SD No. 2 Munggu,50101866,Negeri,Br Pemaron,Munggu,Mengwi,-8.6115,115.1331
+SD,SD No. 2 Penarungan,50101869,Negeri,Br. Blungbang,Penarungan,Mengwi,-8.5436,115.198
+SD,SD No. 2 Pererenan,50103568,Negeri,Br Kangkang,Pererenan,Mengwi,-8.6323,115.1338
+SD,SD No. 2 Sading,50101884,Negeri,Br. Negara,Sading,Mengwi,-8.6061,115.191
+SD,SD No. 2 Sembung,50103395,Negeri,"Jl. Pandu I, Br. Pempatan",Sembung,Mengwi,-8.4751,115.1888
+SD,SD No. 2 Sempidi,50101904,Negeri,Lingkungan Br.Grokgak,Sempidi,Mengwi,-8.6059,115.1875
+SD,SD No. 2 Sobangan,50103572,Negeri,Br. Dukuh Moncos,Sobangan,Mengwi,-8.5037,115.1866
+SD,SD No. 2 Tumbakbayuh,50101909,Negeri,Tumbakbayuh Badung,Tumbak Bayuh,Mengwi,-8.6263,115.1442
+SD,SD No. 2 Werdi Bhuwana,50103574,Negeri,Br. Den Kayu Baleran,Werdi Bhuwana,Mengwi,-8.5228,115.1743
+SD,SD No. 3 Abianbase,50103575,Negeri,"Lingk/Banjar Cica, Abianbase",Abianbase,Mengwi,-8.5893,115.1698
+SD,SD No. 3 Buduk,50103576,Negeri,Br Kaja,Buduk,Mengwi,-8.6063,115.1607
+SD,SD No. 3 Cemagi,50101894,Negeri,Br Seseh,Cemagi,Mengwi,-8.6364,115.1204
+SD,SD No. 3 Gulingan,50103577,Negeri,Br. Sedahan,Gulingan,Mengwi,-8.5461,115.1744
+SD,SD No. 3 Kapal,50101825,Negeri,Br. Panglan,Kapal,Mengwi,-8.5683,115.1802
+SD,SD No. 3 Kekeran,50103578,Negeri,Br Penyarikan Kekeran,Kekeran,Mengwi,-8.5542,115.1739
+SD,SD No. 3 Kuwum,50103396,Negeri,Br Balangan,Kuwum,Mengwi,-8.4819,115.1888
+SD,SD No. 3 Lukluk,50103581,Negeri,Lingkungan Br Badung,Lukluk,Mengwi,-8.5806,115.1897
+SD,SD No. 3 Mengwi,50101744,Negeri,Br Gambang,Mengwi,Mengwi,-8.5457,115.1676
+SD,SD No. 3 Mengwitani,50101833,Negeri,"Br. Culag Calig,MENGWITANI",Mengwitani,Mengwi,-8.5505,115.1674
+SD,SD No. 3 Munggu,50103583,Negeri,"Br. Gambang, Munggu",Munggu,Mengwi,-8.6147,115.1276
+SD,SD No. 3 Penarungan,50101811,Negeri,Br. Guming,Penarungan,Mengwi,-8.5412,115.2054
+SD,SD No. 3 Sading,50101813,Negeri,Umahanyar,Sading,Mengwi,-8.6004,115.2005
+SD,SD No. 3 Sembung,50103397,Negeri,Lingkungan Karangjung,Sembung,Mengwi,-8.4655,115.186
+SD,SD No. 3 Sempidi,50101816,Negeri,Lingkungan Umagunung,Sempidi,Mengwi,-8.6062,115.1822
+SD,SD No. 3 Sobangan,50101818,Negeri,Br. Selat Desa Sobangan,Sobangan,Mengwi,-8.503,115.1832
+SD,SD No. 3 Werdi Bhuwana,50101849,Negeri,Br Sayan Delodan,Werdi Bhuwana,Mengwi,-8.5519,115.1763
+SD,SD No. 4 Cemagi,50101848,Negeri,Jl Bay Pas Munggu Tanah Lot,Cemagi,Mengwi,-8.6152,115.1273
+SD,SD No. 4 Gulingan,50103587,Negeri,Br. Angkeb Canging,Gulingan,Mengwi,-8.5394,115.1763
+SD,SD No. 4 Kapal,50101838,Negeri,"Br. Peken Baleran, Kapal",Kapal,Mengwi,-8.5683,115.1802
+SD,SD No. 4 Lukluk,50103590,Negeri,Lingk. Br. Perang Alas,Lukluk,Mengwi,-8.5787,115.194
+SD,SD No. 4 Mengwi,50101843,Negeri,"Jln. Wibisana,br. Pregae",Mengwi,Mengwi,-8.5436,115.1647
+SD,SD No. 4 Mengwitani,50101844,Negeri,"Br Dinas Pupuan, Mengwitani, Mengwi, Badung, Bali.",Mengwitani,Mengwi,-8.5602,115.1719
+SD,SD No. 4 Penarungan,50101554,Negeri,Br Bantas,Penarungan,Mengwi,-8.5335,115.1968
+SD,SD No. 4 Sading,50101570,Negeri,Jln. Raya Sading No. 8 Sading,Sading,Mengwi,-8.6055,115.1921
+SD,SD No. 4 Sembung,50103398,Negeri,Br Tauman,Sembung,Mengwi,-8.475,115.1842
+SD,SD No. 5 Gulingan,50103592,Negeri,Br. Ulun Uma,Gulingan,Mengwi,-8.5394,115.1933
+SD,SD No. 5 Kapal,50101565,Negeri,Br. Ganggasari,Kapal,Mengwi,-8.5709,115.1781
+SD,SD No. 5 Mengwitani,50101597,Negeri,Br Jumpayah,Mengwitani,Mengwi,-8.5714,115.1653
+SD,SD No. 6 Gulingan,50103594,Negeri,Br.batulumbung,Gulingan,Mengwi,-8.5486,115.1741
+SD,SD No. 6 Kapal,50101518,Negeri,Br.tegal Saat,Kapal,Mengwi,-8.5821,115.1693
+SD,SD BIMS,50103887,Swasta,Br. Gede Abianbase,Abianbase,Mengwi,-8.6049,115.162
+SD,SD Taman Tirta,69937734,Swasta,"Jl. Ratna, No. 5, Br. Tengah Kelod, Gulingan, Mengwi",Gulingan,Mengwi,-8.5467,115.1817
+SD,SD No. 1 Belok,50101762,Negeri,Br. Belok,BELOK/SIDAN,Petang,-8.2948,115.2391
+SD,SD No. 1 Carangsari,50101768,Negeri,Br Pemijian,Carangsari,Petang,-8.4505,115.2213
+SD,SD No. 1 Getasan,50103599,Negeri,Br Kauh,Getasan,Petang,-8.4338,115.2231
+SD,SD No. 1 Pangsan,50103600,Negeri,Br Sekarmukti,Pangsan,Petang,-8.4246,115.2231
+SD,SD No. 1 Pelaga,50101790,Negeri,"Jl. Raya Pucak Mangu, Banjar Pelaga",Pelaga,Petang,-8.2943,115.2254
+SD,SD No. 1 Petang,50101793,Negeri,"Br. Petang Suci, Desa Petang",Petang,Petang,-8.3899,115.2197
+SD,SD No. 1 Sulangai,50103601,Negeri,BR.SULANGAI,Sulangai,Petang,-8.3527,115.206
+SD,SD No. 2 Belok,50101743,Negeri,Br. Jempanang,BELOK/SIDAN,Petang,-8.269,115.2327
+SD,SD No. 2 Carangsari,50103602,Negeri,Br. Samuan Kawan,Carangsari,Petang,-8.4611,115.2166
+SD,SD No. 2 Getasan,50103603,Negeri,Br Ubud,Getasan,Petang,-8.4369,115.2225
+SD,SD No. 2 Pangsan,50103604,Negeri,Br Pangsan,Pangsan,Petang,-8.4143,115.2218
+SD,SD No. 2 Pelaga,50101868,Negeri,Br Tiyingan,Pelaga,Petang,-8.2908,115.2118
+SD,SD No. 2 Petang,50101870,Negeri,Br. Kerta,Petang,Petang,-8.3978,115.221
+SD,SD No. 2 Sulangai,50103605,Negeri,Br. Batulantang,Sulangai,Petang,-8.3514,115.2161
+SD,SD No. 3 Belok,50101886,Negeri,Jl. Raya Belok Sidan,BELOK/SIDAN,Petang,-8.322,115.2395
+SD,SD No. 3 Carangsari,50101893,Negeri,Br Telugtug,Carangsari,Petang,-8.4538,115.2291
+SD,SD No. 3 Pangsan,50101823,Negeri,Br. Kasianan,Pangsan,Petang,-8.4159,115.2245
+SD,SD No. 3 Pelaga,50101821,Negeri,Br. Nungnung Pelaga,Pelaga,Petang,-8.317,115.2198
+SD,SD No. 3 Petang,50101812,Negeri,Br. Lipah,Petang,Petang,-8.3785,115.2103
+SD,SD No. 3 Sulangai,50101819,Negeri,Br. Abing,Sulangai,Petang,-8.3571,115.2129
+SD,SD No. 4 Belok,50101852,Negeri,Banjar Bon,BELOK/SIDAN,Petang,-8.2496,115.2358
+SD,SD No. 4 Pelaga,50101859,Negeri,Br Auman Pelaga,Pelaga,Petang,-8.3142,115.2134
+SD,SD No. 4 Sulangai,50103606,Negeri,Br.Sandakan,Sulangai,Petang,-8.3538,115.2287
+SD,SD No. 5 Belok,50101568,Negeri,Br Lawak,BELOK/SIDAN,Petang,-8.2676,115.2421
+SD,SD No. 5 Carangsari,50101559,Negeri,Carangsari,Carangsari,Petang,-8.4488,115.2185
+SD,SD No. 5 Pelaga,50101599,Negeri,Br. Semanik,Pelaga,Petang,-8.2783,115.2115
+SD,SD No. 6 Belok,50101585,Negeri,Br Penikit,BELOK/SIDAN,Petang,-8.3458,115.2345
+KB,KB Adnyani,69911962,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,KB Goval Kanthi Kumara,69912467,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,KB KUMARA DHARMA KERTI II,69878388,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,KB PAUD RARE KUMARA,69954321,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,KB SEKAR ALIT,69953310,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,KB Werdhi Kumara I Punggul,69932579,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,KB WIDYA CHANDRA,69878381,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,KB WIDYA KUMARAYASA,69878378,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,PAUD AYUANA,69878380,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,PAUD KUMARA SARI II SELAT,69878386,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+PKBM,PKBM WIDYA CHANDRA,P9948363,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+SMP,SMP NEGERI 1 ABIANSEMAL,50101650,Negeri,-,NULL,Abiansemal,-8.603966,115.1770912
+SMP,SMP NEGERI 2 ABIANSEMAL,50101643,Negeri,-,NULL,Abiansemal,-8.603966,115.1770912
+SMP,SMP NEGERI 3 ABIANSEMAL,50101635,Negeri,-,NULL,Abiansemal,-8.603966,115.1770912
+SMP,SMP NEGERI 4 ABIANSEMAL,50101639,Negeri,-,NULL,Abiansemal,-8.603966,115.1770912
+SMP,SMP Negeri 5 Abiansemal,69979113,Negeri,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK NEGERI PEMBINA ABIANSEMAL,50104736,Negeri,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK BALI PUTRA,50104662,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK Candra Nata Kumara,69920737,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK DEWI GANDAWATI,50104691,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK DEWI GANGGA,50104672,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK DEWI SARTIKA MEKAR BHUANA,50104675,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK DHARMAWANGSA,50104685,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK DUTA KUSUMA PERTIWI,50104642,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK ERAWAN,50104688,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK GATOT KACA,50104692,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK Goval Kanthi Kumara,69912468,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK KUMARA DHARMA KERTI II,69950424,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK KUMARA PAKSIKA,50104714,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK KUMARA SARI II,50104716,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK KUNTALA DEWI I,50104724,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK KUNTALA DEWI II,50104725,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK KUNTALA DEWI III,50104726,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK KUNTALA DEWI IV,50104723,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK MANUARA KERTI,50104730,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK MANUARA KIRANA,69878325,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK PRAWIDIA DHARMA KUMARA MAMBAL,50104640,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK SANTIKA DEWI,50104654,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK SHANTI KUMARA AYUNAN,50104759,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK SINGASARI I,50104765,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK SINGASARI II,50104766,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK SRIKANDI,50104767,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK TUNAS WIDYA KUMARA,69878324,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK UDYANA KUMARA I TAMAN,50104782,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK Udyana Kumara II Taman,69934119,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK UDYANA KUMARA III TAMAN,50104781,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK WANDIRA KUMARA I MAMBAL,50104784,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK WANDIRA KUMARA II MAMBAL,50104785,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK WERDHI KUMARA,50104788,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK WIDYA KUMARA,50104793,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK WIDYA KUMARAYASA,50105580,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK WIDYA SARI,50104805,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TK,TK. ADNYANI,69974420,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+TPA,TPA. ADNYANI,69974419,Swasta,-,NULL,Abiansemal,-8.603966,115.1770912
+KB,Kartika Pradnya Kumara,69878342,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB JALAK,70000738,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB JEMBATAN BUDAYA,69950472,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB LILA PRABATA,69878345,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB Paud Scuola Dell Infanzia Don Domenico Masi,70030156,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB SISWA INDAH PRIMA,69878344,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB. BLUE DOLPHIN PLAYSKOOL,70035981,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB. WIPARA,69965975,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+PKBM,PKBM META MORPHOO ACADEMY,P9998303,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+SMP,SMP NEGERI 1 KUTA,50101651,Negeri,-,NULL,Kuta,-8.603966,115.1770912
+SMP,SMP NEGERI 2 KUTA,50101642,Negeri,-,NULL,Kuta,-8.603966,115.1770912
+SMP,SMP Negeri 3 Kuta,69979067,Negeri,-,NULL,Kuta,-8.603966,115.1770912
+SMP,SMP ANGKASA,50101624,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+SMP,SMP Jembatan Budaya,50103607,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+SMP,SMP K SOVERDI,50101613,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+SMP,SMP SUNARI LOKA KUTA,50101614,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK NEGERI PEMBINA KECAMATAN KUTA,69914839,Negeri,-,NULL,Kuta,-8.603966,115.1770912
+TK,Kartika Pradnya Kumara,69878303,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK ADI WIDYA KUMARA,50105577,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK AISYIYAH BUSTANUL ATHFAL AMANAH KUTA,70025274,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK CAHAYA BANGSA,50104667,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK Darma Pertiwi,69986422,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK DHARMA PUTRA,50104684,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK EMBUN PAGI,69978015,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK GEMA ANGKASA,50104693,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK INDRA PRASTA KUTA,50104696,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK ISLAM PEMBANGUNAN,50104697,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK JEMBATAN BUDAYA,50104702,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK KARANG KEMANISAN,50104704,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK KARTIKA VII - 4 TUBAN,50104705,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK KARTINI TUBAN,50104708,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK KATOLIK SOVERDI,50104709,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK MUSLIMAT NAHDLATUL ULAMA,70004550,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK Mutiara Hati,69912017,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK PERMATA BUNI KUTA,69878302,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK PRSHANTI NILAYAM,50104749,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK SCUOLA DELL INFANZIA DON DOMENICO MASI,69986607,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK SISWA INDAH PRIMA,69878305,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK WIDYA KUMARA DHARMA,69878304,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK WIDYA KUSUMA,69973233,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK WIPARA,50104806,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TK,TK. BLUE DOLPHIN PLAYSKOOL,70035980,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+TPA,TPA. BLUE DOLPHIN PLAYSKOOL,70035982,Swasta,-,NULL,Kuta,-8.603966,115.1770912
+KB,KB ANAK PELANGI,70000633,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB ARUNA MULIA NUSA DUA,70010303,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB BALI LIFE SCHOOL,70034816,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Bintang Mandiri,69911980,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB BUKIT SUNRISE SCHOOL,69878327,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB FIRST BRIDGE TANJUNG BENOA,70006463,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Garuda Bilingual School,69916400,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB KUSUMA DHARMA,69878334,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB MENTARI FAJAR,69878333,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Mutiara,69975390,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB NUANSA UDAYANA,69878336,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Permata Udayana,69878329,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Pradnyan,69878328,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Taman Rama,69912464,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Widiatmika,69930505,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB. DAMAR BALI SCHOOL,70030733,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,PAUD LENTERA HATI,69914619,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,PAUD MUTIARA BUNDA,69878337,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,PAUD NUANSA UDAYANA,69878330,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+PKBM,PKBM BUKIT KEHIDUPAN,P9997588,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+PKBM,PKBM MENTARI FAJAR,P2966283,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+PKBM,PKBM Permata Kasih,P9962990,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+PKBM,PKBM Taman Eden Jimbaran,P9963016,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+PKBM,PKBM WERDI SASTRA,P9948293,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP NEGERI 1 KUTA SELATAN,50101652,Negeri,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP NEGERI 2 KUTA SELATAN,50101632,Negeri,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP NEGERI 3 KUTA SELATAN,50101636,Negeri,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP Negeri 4 Kuta Selatan,50103866,Negeri,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP Negeri 5 Kuta Selatan,69899758,Negeri,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP Bintang Mandiri,69937735,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP DWIJENDRA BUALU,50101627,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP MUTIARA,70011169,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP NGURAH RAI PECATU,50101619,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP NUSA DUA,50103609,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP TAMAN RAMA JIMBARAN,50103881,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP TAMAN SASTRA,50101630,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP Tunas Kasih,69946267,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP WERDI SASTRA,70008276,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+SMP,SMP WIDIATMIKA,50105460,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK NEGERI PEMBINA KUTA SELATAN,69990716,Negeri,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,PAUD BINTANG TIMUR,69900166,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,PAUD DINI KUMARA,69878298,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,PAUD MUTIARA BUNDA,69878297,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,PAUD Permata Udayana,69878288,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK AISYIYAH BADUNG,69878296,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK AISYIYAH BUSTANUL ATHFAL MENTARI NUSA DUA,70025272,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK ANAK PELANGI,70008145,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK Anugrah Dewata,69932580,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK ARUNA MULIA NUSA DUA,70010301,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK BAHTERA BUKIT ZAITUN,70008141,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK BALI LIFE SCHOOL,70008661,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK Bintang Mandiri,69911978,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK BINTANG PRATAMA,69878290,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK Buana Kumara Ungasan,69912483,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK BUKIT SUNRISE SCHOOL,69878285,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK CAHAYA BANGSA JIMBARAN,70008136,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK CENDEKIA HARAPAN,50104670,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK DIRGAYUSA,50104686,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK DUNIA BINTANG,70004275,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK DUTA KUSUMA,50104687,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK FIRST BRIDGE TANJUNG BENOA,70006464,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK GANARIA,50104690,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK GARUDA BILINGUAL SCHOOL,50104644,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK GAYATRI,69878286,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK GIRI KUMARA,50104694,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,Tk Giri Sari Kumara,69878289,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK KENCANA KUMARA,50104710,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK KUMARA MANDALA,50104648,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK KUMARA SARI IV,50104718,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK KUSUMA DARMA,50104649,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK LENTERA HATI,69896920,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK MENTARI FAJAR,69878294,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK Mutiara,69975389,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK NIRARTHA I BUALU,50104740,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK NIRARTHA II BUALU,50104741,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK NIRARTHA III BUALU,50104742,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK NUANSA UDAYANA,50104743,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK Nuansa Udayana Siligita,69878299,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK PELANGI JIMBARAN,50104744,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK PENTA TAMAN SARI,50104745,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK PERMATA KASIH,69950473,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK Pradnyan,69878287,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK PREMA SHANTI,50104653,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK PURI GADING,50104750,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK PUTRA PERTIWI,50104752,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK SHIVAGANGGA,69878284,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK TADIKA PURI,69878292,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK TAMAN EDEN JIMBARAN,69965641,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK TAMAN GRIYA,50104769,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK Taman Rama,69912066,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK TAT TWAM ASI,50104656,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK TRI EKA DHARMA LOKA,50104773,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK TUNAS KASIH,50104776,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK WERDI SASTRA,69993068,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK WIDIATMIKA,50104791,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK WIDYA KUMARA,50104794,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK WIDYA KUMARA,69982521,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK WIDYA KUMARA PECATU,70039141,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK. DAMAR BALI SCHOOL,70030607,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK.DOMINIKAN ROSARIO SUCI DARI POMPEI,70035777,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TK,TK.JALADI KUMARA,69878291,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TPA,PAUD MUTIARA BUNDA,69878401,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TPA,TPA FIRST BRIDGE TANJUNG BENOA,70006461,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TPA,TPA NUANSA UDAYANA,69878399,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TPA,TPA PERMATA UDAYANA,69878398,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TPA,TPA SHANTI DAY CARE,70004267,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+TPA,TPA. DAMAR BALI SCHOOL,70030732,Swasta,-,NULL,Kuta Selatan,-8.603966,115.1770912
+KB,KB Aisyiyah Dalung,69916426,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB Bali Kiddy,69911970,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB CETTA BEVERLY INDONESIA,70045059,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB DUTA ANAK,70008396,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB Fajar Harapan,69912065,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB IMANUEL,69878352,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB ISMILE ALAM ATELIER,70032577,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB Kalam Kudus,69948496,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB KUSUMA BUDAYA,69951950,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB Little Steps,69911989,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB Lollypop,69912012,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB MULTI-Q,69878348,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB NEO GENESIS,70004160,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB PELITA KASIH,69877351,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB SILA KUMARA,69914842,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB TAMAN ANAK DUNIA PLUS,69990721,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB TEGALJAYA,69878351,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB THOMAS AQUINO,69878353,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB. BILINGUAL COMMUNITY SCHOOL,70035773,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB. UMALAS,70036248,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,PAUD CIS BALI,69878354,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,POM-POM SCHOOL,69878347,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+PKBM,PKBM ProEducation,P9984848,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+PKBM,PKBM WIDYA PRAMANA,P2966280,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+PKBM,PKBM WIDYA SENTANA,P2966282,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SKB,SKB Kabupaten Badung,P9962766,Negeri,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP NEGERI 1 KUTA UTARA,50101653,Negeri,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP Negeri 2 Kuta Utara,50105571,Negeri,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP Negeri 3 Kuta Utara,69979059,Negeri,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP Negeri 4 Kuta Utara,69991682,Negeri,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP Bali Kiddy,69984892,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP BUDI UTAMA KEROBOKAN,50101625,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP Cerdas Insan Sejahtera (CIS) Bali,69893244,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP Highscope Indonesia-Bali,69874376,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP K 2 HARAPAN,50101628,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP K. THOMAS AQUINO,50101645,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP KALAM KUDUS,50103925,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP NGURAH RAI KEROBOKAN,50101629,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP PANCASILA CANGGU,50101618,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP TEGAL JAYA,50101631,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+SMP,SMP Tiara Nirwana,69957074,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK KUNCUP MEKAR,69959023,Negeri,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,PAUD CIS BALI,69893236,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK ADHYAKSA KEJAKSAAN TINGGI BALI,70011236,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK AISYIYAH BUSTANUL ATHFAL MENTARI TIBUBENENG,50104732,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK AISYIYAH DALUNG,69952765,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK ASTHA GHANA KUMARA,69878314,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK Bali Kiddy,69917771,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK CETTA BEVERLY INDONESIA,70023745,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK DEWI KUNTI I,50104673,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK DEWI KUNTI II,50104674,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK DHARMA KUMARA I TIBUBENENG,50104677,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK DHARMA KUMARA II,69914854,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK DHARMA KUMARA II CANGGU,50104679,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK Dharma Werti,69912020,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK DUTA ANAK,70008384,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK Duta Bina Bhuana School,69934126,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK DUTA KASIH,50104641,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK FAJAR HARAPAN,50104689,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK HIGHSCOPE INDONESIA BALI,69878310,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK IMANUEL,50104695,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK ISMILE ALAM ATELIER,70032576,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK JAYA TUNAS BANGSA,69878313,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK KALAM KUDUS,50104703,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK KUSUMA BUDAYA,50104728,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK Little Steps Preschool,69916379,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK MEKAR JAYA,50104731,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK MULTI-Q,50104650,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK NASIONAL,50104735,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK NEO GENESIS,70003779,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK NGURAH RAI,69878306,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK PADMA SANDY KUMARA,50104652,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK PAUD ABK FAJAR HARAPAN,70023625,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK PELANGI KASIH BALI,69914849,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK POM-POM,69878309,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK PRADNYANDARI I,50104746,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK PRADNYANDARI II,50104747,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK PRADNYANDARI III,50104748,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK PRO EDUCATION,70008644,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK SATRIA KUMARA,69914845,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK SILA KUMARA,69878311,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK SINAR PERSADA,69979912,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK TAMAN ANAK DUNIA PLUS,69990722,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK THOMAS AQUINO,50104771,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK TIARA KASIH,50104772,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK TUNAS MEKAR I DALUNG,50104779,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK TUNAS MEKAR II,50104780,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK WIDYA KUMARA DALUNG,50104796,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK WIDYA KUMARA UMALAS,50104801,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK WIDYA MAHA GANGGA,50104802,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK WIDYA PUSPITA,50104804,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK. BILINGUAL COMMUNITY SCHOOL,70035775,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK. PELITA KASIH,69877350,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TK. UMALAS,70036249,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TK,TKK TEGAL JAYA,50104770,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TPA,TPA GRAHA ANAK,69990623,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TPA,TPA PADMA SANDY KUMARA,69991308,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TPA,TPA PELITA KASIH,69877352,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TPA,TPA SILA KUMARA,69878402,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TPA,TPA UNIK DAY CARE,69980778,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TPA,TPA. BILINGUAL COMMUNITY SCHOOL,70035774,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+TPA,TPA. UMALAS,70036250,Swasta,-,NULL,Kuta Utara,-8.603966,115.1770912
+KB,KB Eka Satya Cipta Dharma,69878358,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB GIRI KUMARA SOBANGAN,69878373,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB GRAHA KUMARA,69878367,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB KUNCUP MANDIRI,69878355,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB MEKAR KUSUMA,69878359,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB NININING,69878363,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB PANGKAJA ALIT,69878357,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB PAUD KIDS FANTASI CAMP,69878371,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB PRA KUMARA DHARMA KERTI,69878364,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB Sanjiwani Kumara Agung,69911987,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB WARA KERTA NUGRAHA,69878372,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB WIDYA KENCANA,69950709,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB WIDYA KUMARA TANGEB,69878362,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB WIDYA KUMARA TIRTA,69878369,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,Paud Adi Kumara,69878410,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,PAUD WIDYA BHAKTI KUMARA,69878361,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+PKBM,PKBM BUDI LUHUR,P2966281,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+PKBM,PKBM PUTRA PINATIH,P9998673,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP NEGERI 1 MENGWI,50101654,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP NEGERI 2 MENGWI,50101633,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP NEGERI 3 MENGWI,50101637,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP NEGERI 4 MENGWI,50103608,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP Negeri 5 Mengwi,69821177,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP Negeri 6 Mengwi,69979069,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP Negeri 7 Mengwi,69979068,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP DHARMA SASTRA,50101626,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP SENI UKIR TANGEB,50101612,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP SWADHYAYA SENI UKIR PENARUNGAN,50101615,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP SWASTIKA,50101616,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+SMP,SMP WIDHYA BRATA MENGWI,50101646,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK NEGERI PEMBINA BADUNG,50104737,Negeri,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK ABDI KUMARA ABIANBASE,50104659,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK BHAKTI YOGA KUMARA,50104661,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK BIMS,69878316,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK BUDHI KUMARA SOBANGAN,50104665,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK DHARMA KUMARA I BUDUK,50104676,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK DHARMA KUMARA II TUMBAKBAYUH,50104680,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK DHARMA KUMARA III PERERENAN,50104681,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK DHARMA KUMARA IV BUDUK,50104683,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK GIRI KUMARA SOBANGAN,69878322,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK GRAHA KUMARA,69878319,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK KUMARA DHARMA KERTI,69878317,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK KUMARA SARI I PENARUNGAN,50104715,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK KUMARASTANA I KAPAL,50104719,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK KUMARASTANA II KAPAL,50104720,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK KUMARASTANA III KAPAL,50104721,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK KUNTI KUMARA GULINGAN,69878321,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK NARA BUDHI SUARI,50104734,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK NININING,50104739,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SANJIWANI KUMARA AGUNG,69928902,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SATYA KUMARA I MENGWITANI,50104753,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SATYA KUMARA II MENGWITANI,50104754,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SETYA BUDHI I MENGWITANI,50104755,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SETYA BUDHI III MENGWITANI,50104756,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SETYA BUDHI IV MENGWITANI,50104757,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SHANTI KUMARA I LUKLUK,50104758,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SHANTI KUMARA II,50104760,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SHANTI KUMARA III SEMPIDI,50104761,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SHANTI KUMARA IV MENGWI,50104762,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK SHANTI KUMARA V LUKLUK,50104763,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK Wara Kerta Nugraha,69912198,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WARUNA KUMARA I CEMAGI,50104786,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WERDI KUMARA,50104787,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WIDHYA BRATA,69878320,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WIDYA BHAKTI KUMARA,69878315,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WIDYA KENCANA,69950710,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WIDYA KUMARA,50104795,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WIDYA KUMARA I MUNGGU,50104797,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WIDYA KUMARA TANGEB,50104799,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK WIDYA KUMARA TIRTA,50104809,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK YUDISTIRA KUMARA I SEMBUNG,50104807,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK YUDISTIRA KUMARA II SEMBUNG,50104808,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK. KIDS FANTASI CAMP,69967191,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK. MEKAR JAYA 2 SEMPIDI,70042270,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TK,TK. UDIYANA KUMARA I MENGWI,50104783,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+TPA,TPA Suarcare,69932586,Swasta,-,NULL,Mengwi,-8.603966,115.1770912
+KB,KB BINA SELARAS,69878390,Swasta,-,NULL,Petang,-8.603966,115.1770912
+KB,KB GIRI KUSUMA,69878395,Swasta,-,NULL,Petang,-8.603966,115.1770912
+KB,KB GIRI SANTIKA,69878396,Swasta,-,NULL,Petang,-8.603966,115.1770912
+KB,KB GIRI TUNAS KUMARA,69967082,Swasta,-,NULL,Petang,-8.603966,115.1770912
+KB,KB KARTIKA YASA IV,69878392,Swasta,-,NULL,Petang,-8.603966,115.1770912
+KB,KB SUCI LAKSANA KUNTI,69878393,Swasta,-,NULL,Petang,-8.603966,115.1770912
+KB,KB WIDYA SASTRA PRATAMA,69878391,Swasta,-,NULL,Petang,-8.603966,115.1770912
+PKBM,PKBM WIDYA GIRI,P9948365,Swasta,-,NULL,Petang,-8.603966,115.1770912
+SMP,SMP NEGERI 1 PETANG,50101644,Negeri,-,NULL,Petang,-8.603966,115.1770912
+SMP,SMP NEGERI 2 PETANG,50101634,Negeri,-,NULL,Petang,-8.603966,115.1770912
+SMP,SMP NEGERI 3 PETANG,50101638,Negeri,-,NULL,Petang,-8.603966,115.1770912
+SMP,SMP NEGERI 4 PETANG,50103859,Negeri,-,NULL,Petang,-8.603966,115.1770912
+TK,PAUD KUMARA NGURAH RAI II,50104713,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK GIRI TUNAS KUMARA,69967081,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK HINDU DHARMA SASTRA,50104646,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK KARTIKA YASA I PETANG,50104706,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK KARTIKA YASA II PETANG,70004159,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK KARTIKA YASA IV,50104707,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK KUMARA NGURAH RAI I CARANGSARI,50104712,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK KUMARA SARI III SULANGAI,50104717,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK KUMARA SARI IV SULANGAI,70005884,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK TUNAS HARAPAN I PELAGA,50104775,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK TUNAS HARAPAN II PELAGA,50104774,Swasta,-,NULL,Petang,-8.603966,115.1770912
+TK,TK TUNAS MEKAR BELOK,50104778,Swasta,-,NULL,Petang,-8.603966,115.1770912
