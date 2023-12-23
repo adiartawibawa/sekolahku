@@ -18,7 +18,7 @@ class ListSekolahs extends ListRecords
     {
         return [
             SekolahResource\Widgets\SekolahOverview::class,
-            SekolahResource\Widgets\SekolahCustomOverview::class,
+            SekolahResource\Widgets\SekolahChart::class,
         ];
     }
 

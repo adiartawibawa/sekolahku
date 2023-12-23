@@ -101,7 +101,7 @@ class SekolahResource extends Resource
                 Tables\Filters\TrashedFilter::make(),
             ])
             ->actions([
-                // Tables\Actions\ViewAction::make(),
+                Tables\Actions\ViewAction::make(),
                 Tables\Actions\EditAction::make(),
                 Tables\Actions\DeleteAction::make(),
             ])
@@ -117,7 +117,7 @@ class SekolahResource extends Resource
     public static function getRelations(): array
     {
         return [
-            //
+            RelationManagers\PegawaisRelationManager::class,
         ];
     }
 
@@ -143,7 +143,7 @@ class SekolahResource extends Resource
     {
         return [
             SekolahResource\Widgets\SekolahOverview::class,
-            SekolahResource\Widgets\SekolahCustomOverview::class,
+            SekolahResource\Widgets\SekolahChart::class
         ];
     }
 }

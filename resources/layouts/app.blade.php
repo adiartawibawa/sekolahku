@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="application-name" content="{{ config('app.name') }}">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -12,12 +14,23 @@
 
     <title>{{ config('app.name') }}</title>
 
-    @vite('resources/css/app.css', 'resources/js/app.js')
+    <style>
+        [x-cloak] {
+            display: none !important;
+        }
+    </style>
+
+    @filamentStyles
+
+    @vite('resources/css/app.css')
 
 </head>
 
-<body>
+<body class="antialiased">
+    {{ $slot }}
 
+    @filamentScripts
+    @vite('resources/js/app.js')
 </body>
 
 </html>

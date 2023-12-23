@@ -38,12 +38,16 @@ class Desa extends Model
      * @param  string  $kecamatanName
      * @return string|null
      */
-    public static function getCodeByDesaAndKecamatan($desaName, $kecamatanName)
+    public static function getCodeByDesaAndKecamatan($namaDesa, $namaKecamatan)
     {
-        return self::whereHas('kecamatan', function ($query) use ($kecamatanName) {
-            $query->where('name', $kecamatanName);
-        })
-            ->where('name', $desaName)
-            ->value('code');
+        $desa = self::where('name', $namaDesa)
+            ->whereHas('kecamatan', function ($query) use ($namaKecamatan) {
+                $query->where('name', $namaKecamatan);
+            })
+            ->first();
+        if ($desa) {
+            return $desa->code;
+        }
+        return null;
     }
 }

@@ -96,7 +96,8 @@ class KepegawaianRelationManager extends RelationManager
                 Tables\Columns\TextColumn::make('masa_kerja_tahun')
                     ->label('Masa Kerja Tahun'),
                 Tables\Columns\TextColumn::make('masa_kerja_bulan')
-                    ->label('Mas Kerja Bulan'), Tables\Columns\IconColumn::make('is_kepsek')
+                    ->label('Mas Kerja Bulan'),
+                Tables\Columns\IconColumn::make('is_kepsek')
                     ->boolean()
                     ->trueIcon('heroicon-o-check-circle')
                     ->falseIcon('heroicon-o-x-circle')

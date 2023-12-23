@@ -36,4 +36,9 @@ class Sekolah extends Model implements HasMedia
     {
         return $this->belongsTo(SekolahForm::class, 'sekolah_forms_code', 'code');
     }
+
+    public function pegawais()
+    {
+        return $this->hasMany(TugasGuruTendik::class, 'sekolah_id', 'id');
+    }
 }

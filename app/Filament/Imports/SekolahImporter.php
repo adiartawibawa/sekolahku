@@ -31,11 +31,6 @@ class SekolahImporter extends Importer
                 ->guess(['bentuk_pendidikan'])
                 ->requiredMapping()
                 ->rules(['required', 'max:8']),
-            ImportColumn::make('desa')
-                ->label('Desa')
-                ->rules(['nullable', 'max:10']),
-            ImportColumn::make('kecamatan')
-                ->label('Kecamatan'),
             ImportColumn::make('npsn')
                 ->label('NPSN')
                 ->requiredMapping()
@@ -51,10 +46,6 @@ class SekolahImporter extends Importer
                 ->label('Alamat Sekolah')
                 ->requiredMapping()
                 ->rules(['required', 'max:65535']),
-            ImportColumn::make('lintang')
-                ->label('Lintang'),
-            ImportColumn::make('bujur')
-                ->label('Bujur'),
         ];
     }
 
@@ -62,15 +53,19 @@ class SekolahImporter extends Importer
     {
         $desa = Desa::getCodeByDesaAndKecamatan($this->data['desa'], $this->data['kecamatan']);
 
-        return Sekolah::firstOrCreate([
-            'npsn' => $this->data['npsn'],
-            'nama' => $this->data['nama'],
-            'sekolah_forms_code' => $this->data['sekolah_forms_code'],
-            'status' => $this->data['status'],
-            'alamat' => $this->data['alamat'],
-            'desa_code' => $desa,
-            'meta' => json_encode(['lat' => $this->data['lintang'], 'lon' => $this->data['bujur']]),
-        ]);
+        return Sekolah::firstOrCreate(
+            [
+                'npsn' => $this->data['npsn'],
+                'nama' => $this->data['nama']
+            ],
+            [
+                'sekolah_forms_code' => $this->data['sekolah_forms_code'],
+                'status' => $this->data['status'],
+                'alamat' => $this->data['alamat'],
+                'desa_code' => $desa,
+                'meta' => json_encode(['lat' => $this->data['lintang'], 'lon' => $this->data['bujur']]),
+            ]
+        );
     }
 
     public static function getCompletedNotificationBody(Import $import): string
