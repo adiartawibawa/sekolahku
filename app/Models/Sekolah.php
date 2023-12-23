@@ -41,4 +41,19 @@ class Sekolah extends Model implements HasMedia
     {
         return $this->hasMany(TugasGuruTendik::class, 'sekolah_id', 'id');
     }
+
+    public function tanah()
+    {
+        return $this->hasMany(SarprasTanah::class, 'sekolah_id', 'id');
+    }
+
+    public function ruang()
+    {
+        return $this->hasMany(SarprasRuang::class, 'sekolah_id', 'id');
+    }
+
+    public function bangunan()
+    {
+        return $this->hasMany(SarprasBangunan::class, 'sekolah_id', 'id');
+    }
 }

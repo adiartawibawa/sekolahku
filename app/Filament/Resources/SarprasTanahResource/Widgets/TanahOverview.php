@@ -1,13 +1,13 @@
 <?php
 
-namespace App\Filament\Resources\GuruTendikResource\Widgets;
+namespace App\Filament\Resources\SarprasTanahResource\Widgets;
 
-use App\Filament\Resources\GuruTendikResource\Pages\ListGuruTendiks;
+use App\Filament\Resources\SarprasTanahResource\Pages\ManageSarprasTanahs;
 use Filament\Widgets\Concerns\InteractsWithPageTable;
 use Filament\Widgets\StatsOverviewWidget as BaseWidget;
 use Filament\Widgets\StatsOverviewWidget\Stat;
 
-class GuruTendikOverview extends BaseWidget
+class TanahOverview extends BaseWidget
 {
     use InteractsWithPageTable;
 
@@ -15,14 +15,14 @@ class GuruTendikOverview extends BaseWidget
 
     protected function getTablePage(): string
     {
-        return ListGuruTendiks::class;
+        return ManageSarprasTanahs::class;
     }
 
     protected function getStats(): array
     {
-        $datas = $this->getPageTableQuery()->with('kepegawaian')
+        $datas = $this->getPageTableQuery()
             ->get()
-            ->countBy('kepegawaian.status_kepegawaian');
+            ->countBy('kepemilikan');
 
         $data[] = null;
         foreach ($datas as $key => $item) {

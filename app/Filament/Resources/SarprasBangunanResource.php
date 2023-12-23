@@ -6,6 +6,7 @@ use App\Filament\Resources\SarprasBangunanResource\Pages;
 use App\Filament\Resources\SarprasBangunanResource\RelationManagers;
 use App\Models\SarprasBangunan;
 use Filament\Forms;
+use Filament\Forms\Components\SpatieMediaLibraryFileUpload;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
 use Filament\Tables;
@@ -108,6 +109,12 @@ class SarprasBangunanResource extends Resource
                 Forms\Components\Textarea::make('keterangan')
                     ->label('Keterangan')
                     ->maxLength(65535)
+                    ->columnSpanFull(),
+                SpatieMediaLibraryFileUpload::make('foto_bangunan')
+                    ->label('Foto Bangunan')
+                    ->multiple()
+                    ->reorderable()
+                    ->collection('bangunans')
                     ->columnSpanFull(),
             ]);
     }

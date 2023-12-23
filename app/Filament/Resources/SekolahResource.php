@@ -8,6 +8,7 @@ use App\Models\Sekolah;
 use Filament\Forms;
 use Filament\Forms\Components\SpatieMediaLibraryFileUpload;
 use Filament\Forms\Form;
+use Filament\Resources\RelationManagers\RelationManager;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
@@ -118,6 +119,9 @@ class SekolahResource extends Resource
     {
         return [
             RelationManagers\PegawaisRelationManager::class,
+            RelationManagers\TanahRelationManager::class,
+            RelationManagers\BangunanRelationManager::class,
+            RelationManagers\RuangRelationManager::class,
         ];
     }
 

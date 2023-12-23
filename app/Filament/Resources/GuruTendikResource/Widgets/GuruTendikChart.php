@@ -27,6 +27,8 @@ class GuruTendikChart extends ChartWidget
             ->get()
             ->countBy('kepegawaian.jenis_ptk');
 
+        $data[] = null;
+        $label[] = null;
         foreach ($datas as $key => $value) {
             $data[] = $value;
             $label[] = $key;
@@ -38,20 +40,10 @@ class GuruTendikChart extends ChartWidget
                     'label' => 'Jumlah',
                     'data' => $data,
                     'backgroundColor' => [
-                        '#f97316',
-                        '#84cc16',
-                        '#10b981',
-                        '#06b6d4',
-                        '#6366f1',
-                        '#d946ef',
+                        '#f97316', '#84cc16', '#10b981', '#06b6d4', '#6366f1', '#d946ef',
                     ],
                     'borderColor' => [
-                        '#fff7ed',
-                        '#f7fee7',
-                        '#ecfdf5',
-                        '#ecfeff',
-                        '#eef2ff',
-                        '#fdf4ff',
+                        '#fff7ed', '#f7fee7', '#ecfdf5', '#ecfeff', '#eef2ff', '#fdf4ff',
                     ],
                 ],
             ],

@@ -6,6 +6,7 @@ use App\Filament\Resources\SarprasTanahResource\Pages;
 use App\Filament\Resources\SarprasTanahResource\RelationManagers;
 use App\Models\SarprasTanah;
 use Filament\Forms;
+use Filament\Forms\Components\SpatieMediaLibraryFileUpload;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
 use Filament\Tables;
@@ -77,6 +78,10 @@ class SarprasTanahResource extends Resource
                     ->label('Keterangan')
                     ->maxLength(65535)
                     ->columnSpanFull(),
+                SpatieMediaLibraryFileUpload::make('denah_tanah')
+                    ->label('Denah Tanah')
+                    ->collection('denahs')
+                    ->columnSpanFull(),
             ]);
     }
 
@@ -140,6 +145,13 @@ class SarprasTanahResource extends Resource
     {
         return [
             'index' => Pages\ManageSarprasTanahs::route('/'),
+        ];
+    }
+
+    public static function getWidgets(): array
+    {
+        return [
+            SarprasTanahResource\Widgets\TanahOverview::class,
         ];
     }
 }

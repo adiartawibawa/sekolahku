@@ -6,6 +6,7 @@ use App\Filament\Resources\SarprasRuangResource\Pages;
 use App\Filament\Resources\SarprasRuangResource\RelationManagers;
 use App\Models\SarprasRuang;
 use Filament\Forms;
+use Filament\Forms\Components\SpatieMediaLibraryFileUpload;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
 use Filament\Tables;
@@ -91,6 +92,12 @@ class SarprasRuangResource extends Resource
                     ->numeric(),
                 Forms\Components\TextInput::make('luas_finish_kjp')
                     ->numeric(),
+                SpatieMediaLibraryFileUpload::make('foto_ruang')
+                    ->label('Foto Kondisi Ruangan')
+                    ->multiple()
+                    ->reorderable()
+                    ->collection('ruangs')
+                    ->columnSpanFull(),
             ]);
     }
 
