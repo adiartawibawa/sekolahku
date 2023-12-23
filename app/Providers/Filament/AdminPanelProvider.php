@@ -2,6 +2,8 @@
 
 namespace App\Providers\Filament;
 
+use App\Filament\Resources\GuruTendikResource\Widgets\GuruTendikOverview;
+use App\Filament\Resources\SekolahResource\Widgets\SekolahChart;
 use Filament\Http\Middleware\Authenticate;
 use Filament\Http\Middleware\DisableBladeIconComponents;
 use Filament\Http\Middleware\DispatchServingFilamentEvent;
@@ -38,7 +40,9 @@ class AdminPanelProvider extends PanelProvider
             ])
             ->discoverWidgets(in: app_path('Filament/Widgets'), for: 'App\\Filament\\Widgets')
             ->widgets([
-                Widgets\AccountWidget::class,
+                // Widgets\AccountWidget::class,
+                GuruTendikOverview::class,
+                SekolahChart::class,
                 // Widgets\FilamentInfoWidget::class,
             ])
             ->middleware([

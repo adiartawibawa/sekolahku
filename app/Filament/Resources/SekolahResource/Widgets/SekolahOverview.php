@@ -14,6 +14,8 @@ class SekolahOverview extends BaseWidget
 {
     use InteractsWithPageTable;
 
+    protected static ?string $pollingInterval = '10s';
+
     protected function getTablePage(): string
     {
         return ListSekolahs::class;
@@ -30,32 +32,32 @@ class SekolahOverview extends BaseWidget
         // dd(json_decode($data['KUTA SELATAN'], true));
         return [
             // Kuta Selatan
-            Stat::make('Kuta Selatan', $data['KUTA SELATAN']->sum())
+            Stat::make('Sekolah di Kuta Selatan', $data['KUTA SELATAN']->sum())
                 ->chart(json_decode($data['KUTA SELATAN'], true))
                 ->color('success'),
 
             // Kuta
-            Stat::make('Kuta', $data['KUTA']->sum())
+            Stat::make('Sekolah di Kuta', $data['KUTA']->sum())
                 ->chart(json_decode($data['KUTA'], true))
                 ->color('success'),
 
             //Kuta Utara
-            Stat::make('Kuta Utara', $data['KUTA UTARA']->sum())
+            Stat::make('Sekolah di Kuta Utara', $data['KUTA UTARA']->sum())
                 ->chart(json_decode($data['KUTA UTARA'], true))
                 ->color('success'),
 
             //Mengwi
-            Stat::make('Mengwi', $data['MENGWI']->sum())
+            Stat::make('Sekolah di Mengwi', $data['MENGWI']->sum())
                 ->chart(json_decode($data['MENGWI'], true))
                 ->color('success'),
 
             // Abiansemal
-            Stat::make('Abiansemal', $data['ABIANSEMAL']->sum())
+            Stat::make('Sekolah di Abiansemal', $data['ABIANSEMAL']->sum())
                 ->chart(json_decode($data['ABIANSEMAL'], true))
                 ->color('success'),
 
             // Petang
-            Stat::make('Petang', $data['PETANG']->sum())
+            Stat::make('Sekolah di Petang', $data['PETANG']->sum())
                 ->chart(json_decode($data['PETANG'], true))
                 ->color('success'),
 

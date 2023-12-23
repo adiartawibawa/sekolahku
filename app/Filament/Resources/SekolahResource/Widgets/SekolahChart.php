@@ -11,7 +11,8 @@ class SekolahChart extends ChartWidget
     protected static ?string $heading = 'Grafik Sekolah di Badung';
 
     protected int | string | array $columnSpan = 'full';
-    protected static ?string $maxHeight = '400px';
+
+    protected static ?string $maxHeight = '300px';
 
     use InteractsWithPageTable;
 
@@ -47,8 +48,26 @@ class SekolahChart extends ChartWidget
                 [
                     'label' => 'Sekolah di Badung',
                     'data' => $data,
-                    'backgroundColor' => '#10b981',
-                    'borderColor' => '#ecfdf5',
+                    'backgroundColor' => [
+                        '#ef4444',
+                        '#f97316',
+                        '#84cc16',
+                        '#10b981',
+                        '#06b6d4',
+                        '#6366f1',
+                        '#d946ef',
+
+                    ],
+                    'borderColor' => [
+                        '#fef2f2',
+                        '#fff7ed',
+                        '#f7fee7',
+                        '#ecfdf5',
+                        '#ecfeff',
+                        '#eef2ff',
+                        '#fdf4ff',
+
+                    ],
                 ],
             ],
             'labels' => $label,

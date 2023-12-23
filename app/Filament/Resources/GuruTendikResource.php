@@ -132,10 +132,11 @@ class GuruTendikResource extends Resource
         ];
     }
 
-    protected function getHeaderWidgets(): array
+    public static function getWidgets(): array
     {
         return [
-            //
+            GuruTendikResource\Widgets\GuruTendikOverview::class,
+            GuruTendikResource\Widgets\GuruTendikChart::class,
         ];
     }
 
