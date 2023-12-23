@@ -46,27 +46,13 @@ class SekolahChart extends ChartWidget
         return [
             'datasets' => [
                 [
-                    'label' => 'Sekolah di Badung',
+                    'label' => 'Sekolah',
                     'data' => $data,
                     'backgroundColor' => [
-                        '#ef4444',
-                        '#f97316',
-                        '#84cc16',
-                        '#10b981',
-                        '#06b6d4',
-                        '#6366f1',
-                        '#d946ef',
-
+                        '#ef4444', '#f97316', '#84cc16', '#10b981', '#06b6d4', '#6366f1', '#d946ef',
                     ],
                     'borderColor' => [
-                        '#fef2f2',
-                        '#fff7ed',
-                        '#f7fee7',
-                        '#ecfdf5',
-                        '#ecfeff',
-                        '#eef2ff',
-                        '#fdf4ff',
-
+                        '#fef2f2', '#fff7ed', '#f7fee7', '#ecfdf5', '#ecfeff', '#eef2ff', '#fdf4ff',
                     ],
                 ],
             ],

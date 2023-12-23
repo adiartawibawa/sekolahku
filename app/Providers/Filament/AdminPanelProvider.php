@@ -2,6 +2,7 @@
 
 namespace App\Providers\Filament;
 
+use App\Filament\Resources\GuruTendikResource\Widgets\GuruTendikChart;
 use App\Filament\Resources\GuruTendikResource\Widgets\GuruTendikOverview;
 use App\Filament\Resources\SekolahResource\Widgets\SekolahChart;
 use Filament\Http\Middleware\Authenticate;
@@ -43,6 +44,7 @@ class AdminPanelProvider extends PanelProvider
                 // Widgets\AccountWidget::class,
                 GuruTendikOverview::class,
                 SekolahChart::class,
+                GuruTendikChart::class,
                 // Widgets\FilamentInfoWidget::class,
             ])
             ->middleware([
