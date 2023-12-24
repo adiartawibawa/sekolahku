@@ -29,7 +29,9 @@ class SarprasRuangResource extends Resource
         return $form
             ->schema([
                 Forms\Components\Select::make('sekolah_id')
-                    ->relationship('sekolah', 'id')
+                    ->relationship('sekolah', 'nama')
+                    ->searchable()
+                    ->preload()
                     ->required(),
                 Forms\Components\TextInput::make('referensi_ruang_id')
                     ->required()
